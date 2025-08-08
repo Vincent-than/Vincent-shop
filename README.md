@@ -7,7 +7,7 @@ Shopping Cart - Seamless shopping experience
 Responsive Design - Works on all devices
 Web Scraping - Dynamic product data collection
 
-🛠️ Tech Stack
+Tech Stack
 Frontend:
 
 Next.js 14 with TypeScript
